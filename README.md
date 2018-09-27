@@ -14,10 +14,12 @@ git config --global user.email "Mi mail"
 // Después, hacerse una cuenta en Github, no tiene porque ser el mismo nombre/mail.
 ```
 
-1. Ahora hay que clonar el repositorio. Esto se hace con el comando `git clone` y lo que hace es traer todo el repo que esta en **Github** a la maquina local, con **Git**. El URL se saca del boton verde 'Clone or download'.
+0.5. Para poder contribuir a un proyecto en Github, primero hay que hacer un fork de este, es decir un clon exacto al que tengamos acceso. Luego, se le pide al autor original que revise los cambios y los agregue (hacer un merge, o sea una fusión del fork nuevo y el repo original) al repo original. Esto se hace tocando en el boton `fork` arriba a la derecha del repo, en github.
+
+1. Ahora, ya en el repo forkeado, hay que clonar el repositorio. Esto se hace con el comando `git clone` y lo que hace es traer todo el repo que esta en **Github** a la maquina local, con **Git**. El URL se saca del boton verde 'Clone or download'.
 
 ```
-git clone https://github.com/FdelMazo/contribution-mural.git
+git clone https://github.com/MiUsuarioDeGithub/contribution-mural.git
 ```
 
 2. Si lo clonaste antes, no te olvides de actualizar para estar al día. Siempre antes de empezar a trabajar hay que hacer un `git pull`
@@ -44,8 +46,10 @@ git add index.html
 git commit -m 'Agrego una imagen al mural...'
 ```
 
-6. Finalmente, hay que pasar de la maquina **local** al repositorio **online**. O sea, hacer el paso de **Git** a **Github**. Esto se hace pusheando (push como acción inversa a pull). Al repositorio online git lo conoce como `origin`, y a la rama que queremos pushear es a `master`, que es la principal y la que se muestra en el sitio.
+6. Para terminar del lado de **Git**, hay que pasar de la maquina **local** al repositorio **online**. O sea, hacer el paso de **Git** a **Github**. Esto se hace pusheando (push como acción inversa a pull). Al repositorio online git lo conoce como `origin`, y a la rama que queremos pushear es a `master`, que es la principal y la que se muestra en el sitio.
 
 ```
 git push origin master
 ```
+
+7. Para finalizar, hay que hacer un `pull request`. Esta es una funcionalidad de **Github** (no Git!!) que es decirle al autor original que querés agregar algo a su repositorio. Entonces hay que ir al fork en Github y clickear en el boton `new pull request` y decirle que queremos mergear **desde** mi fork, **hasta** la rama master del repositorio original. Acá se pueden agregar títulos y más comentarios, pero estos no son parte de los commits de git, si no que es solamente una descripcion del Pull Request. Si al autor original le gustan los cambios y los acepta, se hace el merge y pasan todos los commits del fork al repo original. Después de eso ya se puede borrar el fork.
