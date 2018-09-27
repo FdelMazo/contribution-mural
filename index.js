@@ -35,6 +35,7 @@ $(document).ready(function(){
     function get_random_msg(){
         var quotes = [
             ' dice: ',
+            ' aporta: ',
             ' nos comenta: ',
         ]
         var quote = quotes[Math.floor(Math.random() * quotes.length)];
