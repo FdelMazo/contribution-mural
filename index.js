@@ -1,5 +1,5 @@
 var link_default = "<a href='https://github.com/FdelMazo/contribution-mural'>"
-var texto_default = "Visiten el repo para contribuir! "
+var texto_default = "<img class='img-icon' src='favicon.ico'> Visiten el repo para contribuir! <img class='img-icon' src='favicon.ico'>"
 
 $(document).ready(function(){
 
@@ -13,10 +13,10 @@ $(document).ready(function(){
             'data-author': img.data_author,
             alt: img.alt,
             mouseover: function(ev) {
-                update_msg(ev)
+                update_msg(ev,true)
             },
             click: function(ev) {
-                update_msg(ev);
+                update_msg(ev,false);
                 cliquear();
             },
             mouseleave: function() {
@@ -25,13 +25,13 @@ $(document).ready(function(){
         }).appendTo('body');
     });
 
-    function update_msg(evt){
-        if(clicked) return;
+    function update_msg(evt,bymouseover){
+        if(clicked && bymouseover) return; // Si clickee y entre a traves de mouseover, no quiero perder el msg clickeado.
         var imagen = evt.target
         var msg = imagen.alt;
         var author = $(imagen).data('author')
         var author_link = "<a href='https://github.com/"+author+"'>" + '@' + author + '</a>'
-        commit.innerHTML = author_link + get_random_msg() + msg;
+        commit.innerHTML = author_link + ' dice: ' + msg;
     }
 
     function cliquear(){
@@ -42,16 +42,5 @@ $(document).ready(function(){
         if(clicked) return;
         commit.innerHTML = link_default + texto_default;
     }
-
-    function get_random_msg(){
-        var quotes = [
-            ' dice: ',
-            ' aporta: ',
-            ' nos comenta: ',
-        ]
-        var quote = quotes[Math.floor(Math.random() * quotes.length)];
-        return quote
-    }
-
 })
 

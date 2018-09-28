@@ -11,14 +11,17 @@ body, html {
 }
 
 #commit {
+    text-align: center;
     padding: 1em;
     margin: 1em;
+    height: 1em;
     background-color: white;
     vertical-align: center;
 }
 
 img {
-    height: 10em;
+    height: 8em;
+    padding: 0.2em;
 }
 
 .img-icon {
