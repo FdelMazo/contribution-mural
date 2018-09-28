@@ -46,7 +46,7 @@ var content = [
   }
   {
     "src": "media/TheBojmanOrange.gif",
-    "data_author": "CamiBojman",
+    "data_author": "CamiBoj",
     "alt": "The Bojman Orange"
   }
 
