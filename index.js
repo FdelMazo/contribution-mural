@@ -3,22 +3,33 @@ var texto_default = "Visiten el repo para contribuir! "
 
 $(document).ready(function(){
 
+    // Init
     var clicked = false
-    var img = document.getElementsByTagName("img");
     var commit = document.getElementById("commit");
     commit.innerHTML = link_default + texto_default;
-    for (var i = 0; i < img.length; i++) {
-        img[i].addEventListener("mouseover", update_msg, false)
-        img[i].addEventListener("click", update_msg, false)
-        img[i].addEventListener("click", cliquear)
-        img[i].addEventListener("mouseleave", clean_msg)
-    }
+    content.forEach(function(img) {
+        jQuery('<img/>', {
+            src: img.src,
+            'data-author': img.data_author,
+            alt: img.alt,
+            mouseover: function(ev) {
+                update_msg(ev)
+            },
+            click: function(ev) {
+                update_msg(ev);
+                cliquear();
+            },
+            mouseleave: function() {
+                clean_msg();
+            }
+        }).appendTo('body');
+    });
 
     function update_msg(evt){
         if(clicked) return;
         var imagen = evt.target
         var msg = imagen.alt;
-        var author = $(imagen).data('author') 
+        var author = $(imagen).data('author')
         var author_link = "<a href='https://github.com/"+author+"'>" + '@' + author + '</a>'
         commit.innerHTML = author_link + get_random_msg() + msg;
     }
@@ -41,5 +52,6 @@ $(document).ready(function(){
         var quote = quotes[Math.floor(Math.random() * quotes.length)];
         return quote
     }
+
 })
 
