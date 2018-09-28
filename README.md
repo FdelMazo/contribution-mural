@@ -26,10 +26,14 @@ $ git clone https://github.com/MiUsuarioDeGithub/contribution-mural.git
 $ git pull
 ```
 
-4.  Ahora es cuando se hacen los cambios. Metete en y agrega lo que quieras. Lo que quieras es lo que quieras! Más funciones en `index.js`, distintos colores en `style.css`, cualquier cosa es valida. Si querés poner una imagen o gif y que se vea en el mural podes hacerlo agregando la siguiente linea a `index.html` y después agregando la imagen a la carpeta `media`
+4.  Ahora es cuando se hacen los cambios. Metete en y agrega lo que quieras. Lo que quieras es lo que quieras! Más funciones en `index.js`, distintos colores en `style.css`, cualquier cosa es valida. Si querés poner una imagen o gif y que se vea en el mural podes hacerlo agregando las siguientes lineas a `content.js` y después agregando la imagen a la carpeta `media`
 
-```
-<img class='img' src="media/UnaImagen.png o media/UnGif.gif" data-author='MiUsuarioDeGithub' alt="Un comentario!">  
+```json
+{
+    "src": "media/UnaImagen.png o media/UnGif.gif",
+    "data_author": "MiUsuarioDeGithub",
+    "alt": "Un comentario!"
+}
 ```
 
 5. Hay que pasar del `workspace` (la computadora) al `index` para que Git sepa que querés trackear los cambios en un archivo. Esto se hace con `git add`.

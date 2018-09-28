@@ -14,8 +14,14 @@ body, html {
     padding: 1em;
     margin: 1em;
     background-color: white;
+    vertical-align: center;
 }
 
 img {
     height: 10em;
+}
+
+.img-icon {
+    height: 16px;
+    vertical-align: middle;
 }
