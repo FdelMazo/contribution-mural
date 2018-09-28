@@ -28,7 +28,7 @@ git clone https://github.com/MiUsuarioDeGithub/contribution-mural.git
 git pull
 ```
 
-4.  Ahora es cuando se hacen los cambios. Metete en los archivos y agrega lo que quieras. Lo que quieras es lo que quieras! Se pueden agregar más funciones en `index.js`, distintos colores en `style.css`, algún gif raro en la carpeta `media` o cualquier otra cosa. Si querés poner una imagen o gif y que se vea en el mural podes hacerlo agregando un elemento a `content.js`. Respetá el orden de llegada y agregalo al final!
+4.  Ahora es cuando se hacen los cambios. Metete en los archivos y agrega lo que quieras. Lo que quieras es lo que quieras! Se pueden agregar más funciones en `index.js`, distintos colores en `style.css`, algún gif raro en la carpeta `media` o cualquier otra cosa. Si querés poner una imagen o gif y que se vea en el mural podes hacerlo agregando un elemento a `content.js`. No olvidar probar que funcione, simplemente abriendo el archivo `index.html` con un explorador.  Respetá el orden de llegada y agregalo al final! 
 
 ```
 {

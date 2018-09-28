@@ -43,11 +43,13 @@ var content = [
       "src": "media/partyparrot-JDSanto.gif",
       "data_author": "JDSanto",
       "alt": "Hagan puré la página, total no es mía <img class='img-icon' src='media/partyparrot-JDSanto.gif' alt='PartyParrot'>"
-  }
+  },
   {
     "src": "media/TheBojmanOrange.gif",
     "data_author": "CamiBoj",
     "alt": "The Bojman Orange"
+  },
+  {
+    
   }
-
 ];
