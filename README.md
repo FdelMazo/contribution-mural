@@ -2,6 +2,10 @@
 
 https://fdelmazo.github.io/contribution-mural/
 
+## No entendí algo, no me sale algo, falla algo.
+
+Agregarlo como issue!! https://github.com/FdelMazo/contribution-mural/issues
+
 ## ¿Cómo contribuir?
 
 Primero hay que asegurarse tener Git instalado y configurado y crearse una cuenta de Github.
