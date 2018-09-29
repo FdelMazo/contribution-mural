@@ -39,13 +39,13 @@ $ git add content.js
 $ git add media/UnaImagen.png
 ```
 
-5. Después, desde el `index` hay que comentar los cambios para que el repo de **Git** (No Github!!) sepa que los cambios ya están hechos (en vez de solamente trackearlos), commiteándolos. El mensaje tiene que ser descriptivo!!
+5. Después, desde el `index` hay que cementar los cambios para que el repo de **Git** (No Github!!) sepa que los cambios ya están hechos (en vez de solamente trackearlos), commiteándolos. Esto es pasar del el `index` al `local repository`. El mensaje de commit tiene que ser descriptivo!!
 
 ```bash
 $ git commit -m 'Agrego una imagen al mural...'
 ```
 
-6. Para terminar del lado de **Git**, hay que pasar de la máquina **local** al repositorio **online**. O sea, hacer el paso de **Git** a **Github**. Esto se hace pusheando (push como acción inversa a pull). Al repositorio online git lo conoce como `origin`, y a la rama que queremos pushear es a `master`, que es la principal y la que se muestra en el sitio.
+6. Para terminar del lado de **Git**, hay que pasar de la máquina **local** al repositorio **online**. O sea, hacer el paso de **Git** a **Github**. Esto es pasar del `local repository` al `remote repository`. Esto se hace pusheando (push como acción inversa a pull). Al repositorio online git lo conoce como `origin`, y a la rama que queremos pushear es a `master`, que es la principal y la que se muestra en el sitio.
 
 ```bash
 $ git push origin master
