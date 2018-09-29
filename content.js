@@ -50,6 +50,11 @@ var content = [
     "alt": "The Bojman Orange"
   },
   {
-    
+    "src": "media/hakunaMatata",
+    "data_author": "luciaPardo",
+    "alt": "Git es una forma de vivir..."
+  },
+  {
+
   }
 ];
