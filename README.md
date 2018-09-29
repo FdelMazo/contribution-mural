@@ -52,3 +52,9 @@ $ git push origin master
 ```
 
 7. Para finalizar, hay que hacer un `pull request`. Esta es una funcionalidad de **Github** (no Git!!) que es decirle al autor original que querés agregar algo a su repositorio. Entonces hay que ir al fork hecho y clickear en el botón `new pull request` y decirle que queremos mergear **desde** un fork, **hasta** la rama master del repositorio original. Si al autor original le gustan los cambios y los acepta, se hace el merge y pasan todos los commits del fork al repo original. Después de eso ya se puede borrar el fork y los cambios deberían reflejarse en el sitio web.
+
+
+![alt text](https://images.osteele.com/2008/git-transport.png)
+
+![alt text](https://www.patrickzahnd.ch/uploads/git-transport-v1.png)
+
