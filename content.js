@@ -55,6 +55,8 @@ var content = [
     "alt": "Git es una forma de vivir..."
   },
   {
-
-  }
+    "src": "media/lotor.gif",
+    "data_author": "xNicky",
+    "alt": "I say Vol, you say Tron!"
+  },
 ];
