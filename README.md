@@ -22,13 +22,7 @@ $ git config --global user.email "Mi mail"
 $ git clone https://github.com/MiUsuarioDeGithub/contribution-mural.git
 ```
 
-3. Si lo clonaste antes, no te olvides de actualizar para estar al día. Siempre antes de empezar a trabajar hay que hacer un `git pull`
-
-```bash
-$ git pull
-```
-
-4.  Ahora es cuando se hacen los cambios. Metete en los archivos y agrega lo que quieras. Lo que quieras es lo que quieras! Se pueden agregar más funciones en `index.js`, distintos colores en `style.css`, algún gif raro en la carpeta `media` o cualquier otra cosa. Si querés poner una imagen o gif y que se vea en el mural podes hacerlo agregando un elemento a `content.js`. No olvidar probar que funcione, simplemente abriendo el archivo `index.html` con un explorador.  Respetá el orden de llegada y agregalo al final! 
+3.  Ahora es cuando se hacen los cambios. Metete en los archivos y agrega lo que quieras. Lo que quieras es lo que quieras! Se pueden agregar más funciones en `index.js`, distintos colores en `style.css`, algún gif raro en la carpeta `media` o cualquier otra cosa. Si querés poner una imagen o gif y que se vea en el mural podes hacerlo agregando un elemento a `content.js`. No olvidar probar que funcione, simplemente abriendo el archivo `index.html` con un explorador.  Respetá el orden de llegada y agregalo al final! 
 
 ```JSON
 {
@@ -38,23 +32,23 @@ $ git pull
 }
 ```
 
-5. Ahora ya se hicieron todos los cambios y empezamos a trabajar con Git. Primero hay que pasar del `workspace` (la computadora) al `index` para que Git sepa que querés trackear los cambios en un archivo. Esto se hace con `git add`.
+4. Ahora ya se hicieron todos los cambios y empezamos a trabajar con Git. Primero hay que pasar del `workspace` (la computadora) al `index` para que Git sepa que querés trackear los cambios en un archivo. Esto se hace con `git add`.
 
 ```bash
 $ git add content.js
 $ git add media/UnaImagen.png
 ```
 
-6. Después, desde el `index` hay que comentar los cambios para que el repo de **Git** (No Github!!) sepa que los cambios ya están hechos (en vez de solamente trackearlos), commiteándolos. El mensaje tiene que ser descriptivo!!
+5. Después, desde el `index` hay que comentar los cambios para que el repo de **Git** (No Github!!) sepa que los cambios ya están hechos (en vez de solamente trackearlos), commiteándolos. El mensaje tiene que ser descriptivo!!
 
 ```bash
 $ git commit -m 'Agrego una imagen al mural...'
 ```
 
-7. Para terminar del lado de **Git**, hay que pasar de la máquina **local** al repositorio **online**. O sea, hacer el paso de **Git** a **Github**. Esto se hace pusheando (push como acción inversa a pull). Al repositorio online git lo conoce como `origin`, y a la rama que queremos pushear es a `master`, que es la principal y la que se muestra en el sitio.
+6. Para terminar del lado de **Git**, hay que pasar de la máquina **local** al repositorio **online**. O sea, hacer el paso de **Git** a **Github**. Esto se hace pusheando (push como acción inversa a pull). Al repositorio online git lo conoce como `origin`, y a la rama que queremos pushear es a `master`, que es la principal y la que se muestra en el sitio.
 
 ```bash
 $ git push origin master
 ```
 
-8. Para finalizar, hay que hacer un `pull request`. Esta es una funcionalidad de **Github** (no Git!!) que es decirle al autor original que querés agregar algo a su repositorio. Entonces hay que ir al fork hecho y clickear en el botón `new pull request` y decirle que queremos mergear **desde** un fork, **hasta** la rama master del repositorio original. Si al autor original le gustan los cambios y los acepta, se hace el merge y pasan todos los commits del fork al repo original. Después de eso ya se puede borrar el fork y los cambios deberían reflejarse en el sitio web.
+7. Para finalizar, hay que hacer un `pull request`. Esta es una funcionalidad de **Github** (no Git!!) que es decirle al autor original que querés agregar algo a su repositorio. Entonces hay que ir al fork hecho y clickear en el botón `new pull request` y decirle que queremos mergear **desde** un fork, **hasta** la rama master del repositorio original. Si al autor original le gustan los cambios y los acepta, se hace el merge y pasan todos los commits del fork al repo original. Después de eso ya se puede borrar el fork y los cambios deberían reflejarse en el sitio web.
