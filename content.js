@@ -50,7 +50,7 @@ var content = [
     "alt": "The Bojman Orange"
   },
   {
-    "src": "media/hakunaMatata",
+    "src": "media/hakunaMatata.gif",
     "data_author": "luciaPardo",
     "alt": "Git es una forma de vivir..."
   },
