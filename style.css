@@ -22,7 +22,6 @@ body, html {
 #commit {
     text-align: center;
     padding: 1em;
-    height:1em;
     width: 80%;
     background-color: azure;
     display:inline-block;
