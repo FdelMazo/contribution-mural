@@ -14,9 +14,11 @@ body, html {
 }
 .bg {
     background-image: url("background.jpg");
-    height: 100%; 
-    background-position: center;
+    max-height: 100%;
+    height: auto; 
+    background-position: bottom;
     background-size: cover;
+    background-attachment: fixed;
 }
 
 #commit {
@@ -25,12 +27,13 @@ body, html {
     width: 80%;
     background-color: azure;
     display:inline-block;
-    margin: 1em auto;
+    margin: 0.5em auto;
 }
 
 #titulo {
+    margin: 0.2em auto;
     font-family: 'Andes';
-    font-size: 3em;
+    font-size: 4em;
     color: azure;
     text-align: center;
 }
@@ -42,6 +45,7 @@ img {
 
 .img-icon {
     height: 16px;
+    margin: -4px 0;
     vertical-align: middle;
 }
 
