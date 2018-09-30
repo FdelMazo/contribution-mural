@@ -30,13 +30,21 @@ body, html {
     margin: 0.5em auto;
 }
 
-#titulo {
+h1 {
     margin: 0.2em auto;
     font-family: 'Andes';
     font-size: 4em;
     color: azure;
     text-align: center;
 }
+
+h2 {
+    margin: 0.2em auto;
+    font-size: 1em;
+    color: azure;
+    text-align: center;
+}
+
 
 img {
     height: 7em;
