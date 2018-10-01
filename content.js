@@ -114,4 +114,9 @@ var content = [
     "data_author": "xNicky",
     "alt": "No sabés usar Git?"
   },
+  {
+  	"src": "media/dunkedbrachy.gif",
+  	"data_author": "ndvazquez",
+  	"alt": "Dismissing a pull request review",
+  },
 ];
