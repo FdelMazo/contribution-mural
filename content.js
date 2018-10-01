@@ -108,5 +108,10 @@ var content = [
     "src": "media/merge.gif",
     "data_author": "tomasaccini",
     "alt": "Todo muy lindo hasta que..."
-  }
+  },
+  {
+    "src": "media/gitgud.png",
+    "data_author": "xNicky",
+    "alt": "No sabés usar Git?"
+  },
 ];
