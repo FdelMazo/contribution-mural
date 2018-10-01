@@ -59,4 +59,9 @@ var content = [
     "data_author": "xNicky",
     "alt": "I say Vol, you say Tron!"
   },
+  {
+    "src": "media/dignity.gif",
+    "data_author": "Florencia-97",
+    "alt": "No conoces la dignidad cuando la ves?"
+  },
 ];
