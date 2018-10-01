@@ -104,4 +104,9 @@ var content = [
     "data_author": "dessaya",
     "alt": "git commit --amend"
   },
+  {
+    "src": "media/merge.gif",
+    "data_author": "tomasaccini",
+    "alt": "Todo muy lindo hasta que..."
+  }
 ];
