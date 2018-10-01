@@ -59,4 +59,9 @@ var content = [
     "data_author": "xNicky",
     "alt": "I say Vol, you say Tron!"
   },
+  {
+    "src": "media/merge.gif",
+    "data_author": "tomasaccini",
+    "alt": "Todo muy lindo hasta que..."
+  }
 ];
