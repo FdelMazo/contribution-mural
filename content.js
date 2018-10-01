@@ -60,6 +60,51 @@ var content = [
     "alt": "I say Vol, you say Tron!"
   },
   {
+    "src": "media/dignity.gif",
+    "data_author": "Florencia-97",
+    "alt": "No conoces la dignidad cuando la ves?"
+  },
+  {
+    "src": "media/ball.gif",
+    "data_author": "dessaya",
+    "alt": "git fetch"
+  },
+  {
+    "src": "media/gangster.gif",
+    "data_author": "dessaya",
+    "alt": "git blame"
+  },
+  {
+    "src": "media/high-five.gif",
+    "data_author": "dessaya",
+    "alt": "git pull"
+  },
+  {
+    "src": "media/jazz-hands.gif",
+    "data_author": "dessaya",
+    "alt": "git init"
+  },
+  {
+    "src": "media/karting.gif",
+    "data_author": "dessaya",
+    "alt": "git push -f"
+  },
+  {
+    "src": "media/que.gif",
+    "data_author": "dessaya",
+    "alt": "git help"
+  },
+  {
+    "src": "media/tobogan.gif",
+    "data_author": "dessaya",
+    "alt": "git pull"
+  },
+  {
+    "src": "media/yay.gif",
+    "data_author": "dessaya",
+    "alt": "git commit --amend"
+  },
+  {
     "src": "media/merge.gif",
     "data_author": "tomasaccini",
     "alt": "Todo muy lindo hasta que..."
