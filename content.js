@@ -119,4 +119,9 @@ var content = [
   	"data_author": "ndvazquez",
   	"alt": "Dismissing a pull request review",
   },
+  {
+    "src": "media/khe.gif",
+    "data_author": "mbuchwald",
+    "alt": "Khé's todo esto?",
+  },
 ];
