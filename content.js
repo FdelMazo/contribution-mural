@@ -134,4 +134,9 @@ var content = [
     "data_author": "mbuchwald",
     "alt": "Khé's todo esto?",
   },
+  {
+    "src": "media/BatmanInclusivo.jpeg",
+    "data_author": "ManzanoLautaro",
+    "alt": "Este sitio es bastante lindo..."
+   }
 ];
