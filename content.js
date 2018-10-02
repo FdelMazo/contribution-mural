@@ -115,6 +115,16 @@ var content = [
     "alt": "No sabés usar Git?"
   },
   {
+    "src": "media/cosoColorinche.gif",
+    "data_author": "edjeordjian",
+    "alt": "pa k kieres saber eso jaja saludos."
+  },
+  {
+    "src": "media/elmo.gif",
+    "data_author": "edjeordjian",
+    "alt": "ira men deja te esplico yo no vengo ofendiendo a nadien carnal y estoi tratando de exponer un punto de bista y llegas con inzultos y pues asi no se puede men si te pido respeto xqe tambien ay damas que estan viendo tus insultos sale? grasias d anthemano﻿"
+  },
+  {
   	"src": "media/dunkedbrachy.gif",
   	"data_author": "ndvazquez",
   	"alt": "Dismissing a pull request review",
