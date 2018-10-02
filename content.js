@@ -138,5 +138,12 @@ var content = [
     "src": "media/BatmanInclusivo.jpeg",
     "data_author": "ManzanoLautaro",
     "alt": "Este sitio es bastante lindo..."
+   },
+  {
+    "src": "media/elcomandantedraw.gif",
+    "data_author": "NachoRaik",
+    "alt": "Compilo 1 hora antes de la entrega y vos..."
    }
+	
+
 ];
