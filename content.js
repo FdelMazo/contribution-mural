@@ -148,5 +148,10 @@ var content = [
     "src": "media/wakarimasu.png",
     "data_author": "ndvazquez",
     "alt": "Entendés git ahora?"
+  },
+  {
+    "src": "media/corrector_humano.jpg",
+    "data_author": "andyclaros",
+    "alt": "Cuando el corrector automatico se preocupa porque duermas"
   }
 ];
