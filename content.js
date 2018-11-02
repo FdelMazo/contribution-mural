@@ -154,4 +154,10 @@ var content = [
     "data_author": "andyclaros",
     "alt": "Cuando el corrector automatico se preocupa porque duermas"
   }
+  ,
+  {
+	"src": "media/inCaseOfFire.jpg",
+    "data_author": "jomedina96",
+    "alt": "Never forget."
+  }
 ];
