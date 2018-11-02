@@ -1,4 +1,4 @@
-var content = [
+﻿var content = [
   {
     "src": "media/batman-FdelMazo.png",
     "data_author": "FdelMazo",
@@ -153,8 +153,7 @@ var content = [
     "src": "media/corrector_humano.jpg",
     "data_author": "andyclaros",
     "alt": "Cuando el corrector automatico se preocupa porque duermas"
-  }
-  ,
+  },
   {
 	"src": "media/inCaseOfFire.jpg",
     "data_author": "jomedina96",
