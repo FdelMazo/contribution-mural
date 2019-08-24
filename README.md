@@ -1,10 +1,6 @@
-# contribution-mural
+# [contribution-mural](https://fdelmazo.github.io/contribution-mural/)
 
-https://fdelmazo.github.io/contribution-mural/
-
-## No entendí algo, no me sale algo, falla algo.
-
-Agregarlo como issue!! https://github.com/FdelMazo/contribution-mural/issues
+Este es un collage de imagenes donde toda persona puede aportar algo al mural, haciendo un Pull Request sobre este mismo repositorio.
 
 ## ¿Cómo contribuir?
 
