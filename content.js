@@ -158,5 +158,10 @@
 	"src": "media/inCaseOfFire.jpg",
     "data_author": "jomedina96",
     "alt": "Never forget."
-  }
+  },
+  {
+    "src": "media/Roly_Poly.gif",
+    "data_author": "nicolasgirardi",
+    "alt": "the roliest poly."
+  },
 ];
