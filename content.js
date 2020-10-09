@@ -158,5 +158,10 @@
 	"src": "media/inCaseOfFire.jpg",
     "data_author": "jomedina96",
     "alt": "Never forget."
-  }
+  },
+  {
+    "src": "media/noice.gif",
+    "data_author": "PradaJoaquin",
+    "alt": "Cuando por fin compila"
+  },
 ];
