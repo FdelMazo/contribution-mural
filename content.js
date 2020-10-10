@@ -158,5 +158,10 @@
 	"src": "media/inCaseOfFire.jpg",
     "data_author": "jomedina96",
     "alt": "Never forget."
+  },
+  {
+  "src": "media/dancin.gif",
+    "data_author": "lvaldovinos",
+    "alt": "ᕕ(⌐■_■)ᕗ ♪♬"
   }
 ];
