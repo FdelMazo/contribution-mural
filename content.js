@@ -158,5 +158,10 @@
 	"src": "media/inCaseOfFire.jpg",
     "data_author": "jomedina96",
     "alt": "Never forget."
+  },
+  {
+    "src": "media/catcod.gif",
+    "data_autor": "leonelfernandez",
+    "alt": "No llegas con el tp y pones a tu gato a laburar"
   }
 ];
