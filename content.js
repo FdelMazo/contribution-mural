@@ -159,4 +159,9 @@
     "data_author": "jomedina96",
     "alt": "Never forget."
   }
+  {
+	"src": "media/Googly-eyes-are-funny.gif",
+    "data_author": "julia-valdo",
+    "alt": "When you have to study..."
+  }
 ];
