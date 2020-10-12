@@ -160,6 +160,11 @@
     "alt": "Never forget."
   },
   {
+    "src": "media/elrey.gif",
+    "data_author": "marcosldvargas",
+    "alt": "El baile que salvó al mundo no es el de Star-Lord"
+  },
+  {
     "src": "media/dancin.gif",
     "data_author": "lvaldovinos",
     "alt": "ᕕ(⌐■_■)ᕗ ♪♬"
