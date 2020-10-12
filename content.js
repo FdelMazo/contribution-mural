@@ -160,6 +160,11 @@
     "alt": "Never forget."
   },
   {
+    "src": "media/catcod.gif",
+    "data_autor": "leonelfernandez",
+    "alt": "No llegas con el tp y pones a tu gato a laburar"
+  },
+  {
     "src": "media/elrey.gif",
     "data_author": "marcosldvargas",
     "alt": "El baile que salvó al mundo no es el de Star-Lord"
@@ -178,7 +183,7 @@
     "src": "media/Roly_Poly.gif",
     "data_author": "nicolasgirardi",
     "alt": "the roliest poly."
-  }
+  },
   {
 	"src": "media/Googly-eyes-are-funny.gif",
     "data_author": "julia-valdo",
