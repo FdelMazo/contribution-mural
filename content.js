@@ -160,8 +160,18 @@
     "alt": "Never forget."
   },
   {
-  "src": "media/dancin.gif",
+    "src": "media/dancin.gif",
     "data_author": "lvaldovinos",
     "alt": "ᕕ(⌐■_■)ᕗ ♪♬"
+  },
+  {
+    "src": "media/noice.gif",
+    "data_author": "PradaJoaquin",
+    "alt": "Cuando por fin compila"
+  },
+  {
+    "src": "media/Roly_Poly.gif",
+    "data_author": "nicolasgirardi",
+    "alt": "the roliest poly."
   }
 ];
