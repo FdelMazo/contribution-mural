@@ -160,6 +160,11 @@
     "alt": "Never forget."
   },
   {
+    "src": "media/dancin.gif",
+    "data_author": "lvaldovinos",
+    "alt": "ᕕ(⌐■_■)ᕗ ♪♬"
+  },
+  {
     "src": "media/noice.gif",
     "data_author": "PradaJoaquin",
     "alt": "Cuando por fin compila"
