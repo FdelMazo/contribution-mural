@@ -179,4 +179,9 @@
     "data_author": "nicolasgirardi",
     "alt": "the roliest poly."
   }
+  {
+	"src": "media/Googly-eyes-are-funny.gif",
+    "data_author": "julia-valdo",
+    "alt": "When you have to study..."
+  }
 ];
