@@ -160,6 +160,11 @@
     "alt": "Never forget."
   },
   {
+    "src": "media/dwight.gif",
+      "data_author": "trinifaccini",
+      "alt": "Spooky season."
+  },
+  {
     "src": "media/DontGetIt.gif",
     "data_author": "sofiaoferrari",
     "alt": "MOOD"
@@ -199,5 +204,4 @@
     "data_author": "mrosariopresedo",
     "alt": "Descripcion de mi semana..."
   }
-
 ];
