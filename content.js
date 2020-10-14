@@ -194,4 +194,10 @@
     "data_author": "julia-valdo",
     "alt": "When you have to study..."
   }
+  {
+    "src": "media/full_of_things_to_do.gif",
+    "data_author": "mrosariopresedo",
+    "alt": "Descripcion de mi semana..."
+  }
+
 ];
