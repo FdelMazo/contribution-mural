@@ -158,5 +158,10 @@
 	"src": "media/inCaseOfFire.jpg",
     "data_author": "jomedina96",
     "alt": "Never forget."
-  }
+  },
+  {
+    "src": "media/dwight.gif",
+      "data_author": "trinifaccini",
+      "alt": "Spooky season."
+    }
 ];
