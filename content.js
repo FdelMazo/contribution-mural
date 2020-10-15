@@ -209,4 +209,9 @@
     "data_author": "MateoCraviotto",
     "alt": "Windows cuando abrís más de 2 pestañas..."
   }
+  {
+    "src": "media/raul.jpg",
+    "data_author": "camilabartocci",
+    "alt": "Agrego a mi perro Raulito (a veces sale lindo en las fotos)"
+  }
 ];
