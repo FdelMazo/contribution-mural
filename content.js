@@ -204,4 +204,9 @@
     "data_author": "mrosariopresedo",
     "alt": "Descripcion de mi semana..."
   }
+  {
+    "src": "media/raul.jpg",
+    "data_author": "camilabartocci",
+    "alt": "Agrego a mi perro Raulito (a veces sale lindo en las fotos)"
+  }
 ];
