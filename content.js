@@ -164,6 +164,59 @@
     "data_author": "lucasbilo",
     "alt": "OMMMMM"
   },
-  
-  
+  {
+     "src": "media/dwight.gif",
+      "data_author": "trinifaccini",
+      "alt": "Spooky season."
+  },
+  {
+    "src": "media/DontGetIt.gif",
+    "data_author": "sofiaoferrari",
+    "alt": "MOOD"
+  },
+  {
+    "src": "media/catcod.gif",
+    "data_autor": "leonelfernandez",
+    "alt": "No llegas con el tp y pones a tu gato a laburar"
+  },
+  {
+    "src": "media/elrey.gif",
+    "data_author": "marcosldvargas",
+    "alt": "El baile que salvó al mundo no es el de Star-Lord"
+  },
+  {
+    "src": "media/dancin.gif",
+    "data_author": "lvaldovinos",
+    "alt": "ᕕ(⌐■_■)ᕗ ♪♬"
+  },
+  {
+    "src": "media/noice.gif",
+    "data_author": "PradaJoaquin",
+    "alt": "Cuando por fin compila"
+  },
+  {
+    "src": "media/Roly_Poly.gif",
+    "data_author": "nicolasgirardi",
+    "alt": "the roliest poly."
+  },
+  {
+	"src": "media/Googly-eyes-are-funny.gif",
+    "data_author": "julia-valdo",
+    "alt": "When you have to study..."
+  },
+  {
+    "src": "media/full_of_things_to_do.gif",
+    "data_author": "mrosariopresedo",
+    "alt": "Descripcion de mi semana..."
+  },
+  {
+    "src": "media/cerebro_congelado.gif",
+    "data_author": "MateoCraviotto",
+    "alt": "Windows cuando abrís más de 2 pestañas..."
+  },
+  {
+    "src": "media/raul.jpg",
+    "data_author": "camilabartocci",
+    "alt": "Agrego a mi perro Raulito (a veces sale lindo en las fotos)"
+  }
 ];
