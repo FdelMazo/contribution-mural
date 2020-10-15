@@ -198,10 +198,15 @@
 	"src": "media/Googly-eyes-are-funny.gif",
     "data_author": "julia-valdo",
     "alt": "When you have to study..."
-  }
+  },
   {
     "src": "media/full_of_things_to_do.gif",
     "data_author": "mrosariopresedo",
     "alt": "Descripcion de mi semana..."
+  },
+  {
+    "src": "media/cerebro_congelado.gif",
+    "data_author": "MateoCraviotto",
+    "alt": "Windows cuando abrís más de 2 pestañas..."
   }
 ];
