@@ -158,5 +158,12 @@
 	"src": "media/inCaseOfFire.jpg",
     "data_author": "jomedina96",
     "alt": "Never forget."
-  }
+  },
+  {
+    "src": "media/zpatricio.jpg",
+    "data_author": "lucasbilo",
+    "alt": "OMMMMM"
+  },
+  
+  
 ];
