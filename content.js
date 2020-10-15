@@ -160,7 +160,7 @@
     "alt": "Never forget."
   },
   {
-    "src": "media/zpatricio.jpg",
+    "src": "media/zpatricio.gif",
     "data_author": "lucasbilo",
     "alt": "OMMMMM"
   },
