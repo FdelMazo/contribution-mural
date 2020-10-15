@@ -160,7 +160,12 @@
     "alt": "Never forget."
   },
   {
-    "src": "media/dwight.gif",
+    "src": "media/zpatricio.jpg",
+    "data_author": "lucasbilo",
+    "alt": "OMMMMM"
+  },
+  {
+     "src": "media/dwight.gif",
       "data_author": "trinifaccini",
       "alt": "Spooky season."
   },
